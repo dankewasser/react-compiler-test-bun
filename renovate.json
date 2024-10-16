@@ -13,5 +13,5 @@
       "enabled": true
     }
   ],
-  "recreateClosed": true
+  "recreateWhen": "always"
 }
