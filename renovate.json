@@ -12,5 +12,6 @@
       "matchUpdateTypes": ["minor", "patch"],
       "enabled": true
     }
-  ]
+  ],
+  "recreateClosed": true
 }
