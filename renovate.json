@@ -4,6 +4,6 @@
     "config:recommended"
   ],
   "major": {
-    "dependencyDashboardApproval": true
+    "enabled": false
   }
 }
