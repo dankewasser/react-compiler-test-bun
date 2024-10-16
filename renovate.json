@@ -3,15 +3,5 @@
   "extends": [
     "config:recommended"
   ],
-  "packageRules": [
-    {
-      "matchUpdateTypes": ["major"],
-      "enabled": false
-    },
-    {
-      "matchUpdateTypes": ["minor", "patch"],
-      "enabled": true
-    }
-  ],
   "recreateWhen": "always"
 }
