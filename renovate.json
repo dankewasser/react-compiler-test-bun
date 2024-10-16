@@ -3,5 +3,7 @@
   "extends": [
     "config:recommended"
   ],
-  "rangeStrategy": "auto"
+  "major": {
+    "dependencyDashboardApproval": true
+  }
 }
